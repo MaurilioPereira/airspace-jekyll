@@ -14,8 +14,10 @@ keep_files:
 
 
 # Site settings
-title: Airspace
-subtitle: "A free HTML5 agency template"
+#title: Airspace
+title: MxP
+#subtitle: "A free HTML5 agency template"
+subtitle: "TECNOLOGIA"
 url: "http://ndrewtl.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/airspace-jekyll"
